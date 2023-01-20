@@ -1,0 +1,42 @@
+{
+  "resourceId": "jellycar_stage",
+  "content": [{
+    "id": "jellycar_stage",
+    "name": "JellyCar",
+    "description": "An example stage for Fraymakers.",
+    "type": "stage",
+    "objectStatsId": "jellycar_stageStageStats",
+    "scriptId": "jellycar_stageScript",
+    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }],
+    "metadata": {
+      "stage":{
+        "hazardVariation": "local::jellycar_stage.jellycar_stagehazards"
+      },
+      "ui":{
+        "entityId":"menu",
+        "render":{
+          "animation":"full",
+          "animation_hazard":"full_hazard"
+        },
+        "css":{
+          "animation":"css",
+          "animation_hazard":"css_hazard"
+        }
+      }
+    }
+  },{
+    "id": "jellycar_stagehazards",
+    "name": "JellyCar (But dangerous!)",
+    "description": "An example stage for Fraymakers.",
+    "type": "stage",
+    "objectStatsId": "jellycar_stageStageStats",
+    "scriptId": "jellycar_stageScript",
+    "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }]
+  },
+  {
+    "id": "stagetemplateMovingPlatform",
+    "type": "structure",
+    "objectStatsId": "stagetemplateMovingPlatformStats",
+    "scriptId": "stagetemplateMovingPlatformScript"
+  }]
+}
