@@ -31,7 +31,6 @@
 		initialHeight: 360,
 		initialWidth: 640,
 		backgrounds: [
-			// Sky
 			{
 				spriteContent: self.getResource().getContent("jellycar_stage"),
 				animationId: "parallax0",
