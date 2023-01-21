@@ -1,0 +1,3 @@
+[submodule "jellycar_stage/love2d/bresenham.lua"]
+	path = jellycar_stage/love2d/bresenham.lua
+	url = https://github.com/kikito/bresenham.lua

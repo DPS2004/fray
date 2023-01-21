@@ -41,8 +41,8 @@
 				verticalScroll: false,
 				loopWidth: 0,
 				loopHeight: 0,
-				xPanMultiplier: 0.06,
-				yPanMultiplier: 0.06,
+				xPanMultiplier: 0.1,
+				yPanMultiplier: 0.1,
 				scaleMultiplier: 1,
 				foreground: false,
 				depth: 2001
