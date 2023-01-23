@@ -1,7 +1,7 @@
-// Stats for Stage Template moving platform beneath the stage
+// jellycar stage border
 
 {
-	spriteContent: self.getResource().getContent("jellycar_stage"),
+	spriteContent: self.getResource().getContent("jellycarBorder"),
 	animationId: "platformSprite",
 	startX: -550,
 	startY: 500

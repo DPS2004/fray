@@ -4,6 +4,9 @@
   "id": "jellycar_stageScript",
   "language": "",
   "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.2"
+    }
   },
   "plugins": [
     "com.fraymakers.FraymakersMetadata"

@@ -9,6 +9,7 @@
     }
   },
   "plugins": [
+    "com.fraymakers.FraymakersMetadata"
   ],
   "tags": [
   ],

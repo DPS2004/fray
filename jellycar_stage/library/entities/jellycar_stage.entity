@@ -62,16 +62,6 @@
       "name": "parallax0",
       "pluginMetadata": {
       }
-    },
-    {
-      "$id": "c59a49bf-3696-4259-8d3e-a7dcb363f492",
-      "layers": [
-        "d59b9d41-1d49-4456-9417-553f794469a3",
-        "2d3f5def-36d1-47f3-8ed1-9b5a90b72e2e"
-      ],
-      "name": "platformSprite",
-      "pluginMetadata": {
-      }
     }
   ],
   "export": true,
@@ -210,16 +200,6 @@
       "type": "POINT"
     },
     {
-      "$id": "a511330b-eeb3-4237-b34d-2bd1466756c0",
-      "length": 1,
-      "pluginMetadata": {
-      },
-      "symbol": "14854b96-c549-4f42-99fd-6de9b8db52cf",
-      "tweenType": "LINEAR",
-      "tweened": false,
-      "type": "IMAGE"
-    },
-    {
       "$id": "1d05c494-c544-4fb5-b5f1-c7c6e8498282",
       "length": 1,
       "pluginMetadata": {
@@ -349,16 +329,6 @@
       "tweenType": "LINEAR",
       "tweened": false,
       "type": "IMAGE"
-    },
-    {
-      "$id": "fc9837ed-19af-46e7-8f84-2c45c422e078",
-      "length": 1,
-      "pluginMetadata": {
-      },
-      "symbol": "6662a0f8-8125-437d-9c57-e900c55d62e4",
-      "tweenType": "LINEAR",
-      "tweened": false,
-      "type": "LINE_SEGMENT"
     },
     {
       "$id": "95d5c977-162f-4378-ad1d-4b6a5823e6cf",
@@ -959,18 +929,6 @@
       "type": "POINT"
     },
     {
-      "$id": "d59b9d41-1d49-4456-9417-553f794469a3",
-      "hidden": false,
-      "keyframes": [
-        "a511330b-eeb3-4237-b34d-2bd1466756c0"
-      ],
-      "locked": true,
-      "name": "Image Layer",
-      "pluginMetadata": {
-      },
-      "type": "IMAGE"
-    },
-    {
       "$id": "86eee8a4-29c3-4b24-8da7-8603638510f2",
       "hidden": false,
       "keyframes": [
@@ -1090,21 +1048,6 @@
       "pluginMetadata": {
       },
       "type": "IMAGE"
-    },
-    {
-      "$id": "2d3f5def-36d1-47f3-8ed1-9b5a90b72e2e",
-      "hidden": false,
-      "keyframes": [
-        "fc9837ed-19af-46e7-8f84-2c45c422e078"
-      ],
-      "locked": false,
-      "name": "Line Segment Layer",
-      "pluginMetadata": {
-        "com.fraymakers.FraymakersMetadata": {
-          "lineSegmentType": "LINE_SEGMENT_STRUCTURE"
-        }
-      },
-      "type": "LINE_SEGMENT"
     },
     {
       "$id": "b175038a-9a1f-43a8-bbcd-bb5a1b6e0d3d",
@@ -1343,41 +1286,6 @@
       "type": "POINT",
       "x": 441,
       "y": -917
-    },
-    {
-      "$id": "14854b96-c549-4f42-99fd-6de9b8db52cf",
-      "alpha": 1,
-      "imageAsset": "531bdf43-aac1-4b0f-bacb-c312caae63e9",
-      "pivotX": 0,
-      "pivotY": 0,
-      "pluginMetadata": {
-      },
-      "rotation": 0,
-      "scaleX": 1,
-      "scaleY": 1,
-      "type": "IMAGE",
-      "x": -41,
-      "y": -19
-    },
-    {
-      "$id": "6662a0f8-8125-437d-9c57-e900c55d62e4",
-      "alpha": 0.5,
-      "color": "0xeeeeee",
-      "pluginMetadata": {
-        "com.fraymakers.FraymakersMetadata": {
-          "dropThrough": false,
-          "leftLedge": false,
-          "rightLedge": false,
-          "structureType": "FLOOR"
-        }
-      },
-      "points": [
-        0,
-        0,
-        216.85714285714283,
-        0
-      ],
-      "type": "LINE_SEGMENT"
     },
     {
       "$id": "73b727d5-7c66-443d-a7d0-2b0997cc8d49",
