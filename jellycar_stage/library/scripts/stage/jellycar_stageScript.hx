@@ -6,6 +6,7 @@ function initialize(){
 	// Don't animate the stage itself (we'll pause on one version for hazards on, and another version for hazards off)
 	self.pause();
 	match.createStructure(self.getResource().getContent("jellycarBorder"));
+	
 	if (match.getMatchSettingsConfig().hazards) {
 		// Hazards are on, enable the platform beneath the stage
 		//match.createStructure(self.getResource().getContent("stagetemplateMovingPlatform"));

@@ -4,9 +4,11 @@
   "id": "borderStats",
   "language": "hscript",
   "pluginMetadata": {
+    "com.fraymakers.FraymakersMetadata": {
+      "version": "0.1.2"
+    }
   },
   "plugins": [
-    "com.fraymakers.FraymakersMetadata"
   ],
   "tags": [
   ],
