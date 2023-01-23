@@ -34,9 +34,10 @@
     "music": [{ "namespace": "public", "resourceId": "bgm_welkinwonderland", "contentId": "bgm_welkinwonderland" },{"namespace": "public", "resourceId": "bgm_impetusremix", "contentId": "bgm_impetusremix" },{"namespace": "public", "resourceId": "bgm_superfunk", "contentId": "bgm_superfunk" }]
   },
   {
-    "id": "stagetemplateMovingPlatform",
+    "id": "jellycarBorder",
     "type": "structure",
-    "objectStatsId": "stagetemplateMovingPlatformStats",
-    "scriptId": "stagetemplateMovingPlatformScript"
-  }]
+    "objectStatsId": "borderStats",
+    "scriptId": "borderScript"
+  }
+  ]
 }

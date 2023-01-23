@@ -1,11 +1,11 @@
 {
   "export": true,
-  "guid": "68753717-428d-44db-964e-58252f7cfa41",
-  "id": "jellycar_stageScript",
-  "language": "",
+  "guid": "575de24f-24d4-4843-a6d1-b2b8fafedcb9",
+  "id": "borderScript",
+  "language": "hscript",
   "pluginMetadata": {
     "com.fraymakers.FraymakersMetadata": {
-      "objectType": "STAGE",
+      "objectType": "LINE_SEGMENT_STRUCTURE",
       "version": "0.1.2"
     }
   },

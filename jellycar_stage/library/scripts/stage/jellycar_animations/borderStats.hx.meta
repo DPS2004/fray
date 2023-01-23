@@ -1,0 +1,14 @@
+{
+  "export": true,
+  "guid": "c28fd693-e9c3-476a-9ec1-96651fff25db",
+  "id": "borderStats",
+  "language": "hscript",
+  "pluginMetadata": {
+  },
+  "plugins": [
+    "com.fraymakers.FraymakersMetadata"
+  ],
+  "tags": [
+  ],
+  "version": 1
+}
